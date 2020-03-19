@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Dane\Informatyka\Programy\na infe\Clicker\Clicker\main.cpp(91,12): warning C4244:  'return': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Dane\Informatyka\Programy\na infe\Clicker\Clicker\main.cpp(196,16): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Clicker.vcxproj -> E:\Dane\Informatyka\Programy\na infe\Clicker\x64\Debug\Clicker.exe
